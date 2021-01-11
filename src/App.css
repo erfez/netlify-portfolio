@@ -29,8 +29,8 @@
 
 .App-main {
   margin-top: 2rem;
-  color: rgb(131, 124, 131);
-  text-shadow: 2px 2px purple;
+  color: rgb(211, 211, 211);
+  text-shadow: 2px 2px rgb(12, 11, 12);
 }
 
 .App-link {
