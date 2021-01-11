@@ -22,9 +22,9 @@
 }
 
 .App-header {
-  padding: 0 5rem;
-  border: 2px dashed violet;
-  text-shadow: 4px 4px purple;
+    padding: 0 5rem;
+    border: dotted;
+    text-shadow: 5px 4px #048000;
 }
 
 .App-main {
