@@ -6,7 +6,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(17, 14, 14);
   text-align: center;
 }
 
@@ -29,17 +29,17 @@
 
 .App-main {
   margin-top: 2rem;
-  color: violet;
+  color: rgb(131, 124, 131);
   text-shadow: 2px 2px purple;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #c5e8f1;
 }
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(90deg);
   }
   to {
     transform: rotate(360deg);
