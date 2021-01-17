@@ -5,8 +5,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: calc(10px + 2vmin);
   color: rgb(17, 14, 14);
+  text-decoration: underline;
   text-align: center;
 }
 
@@ -23,8 +25,6 @@
 
 .App-header {
     padding: 0 5rem;
-    border: dotted;
-    text-shadow: 5px 4px #048000;
 }
 
 .App-main {
