@@ -30,7 +30,7 @@
 .App-main {
   margin-top: 2rem;
   color: rgb(211, 211, 211);
-  text-shadow: 2px 2px rgb(12, 11, 12);
+  border: outset;
 }
 
 .App-link {
